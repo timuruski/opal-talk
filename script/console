@@ -1,0 +1,9 @@
+#! /usr/bin/env ruby
+
+require 'bundler/setup'
+require 'opal'
+
+require 'pry'
+
+ARGV.clear
+Pry.start
