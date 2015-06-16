@@ -1,1 +1,1 @@
-bundle exec rerun bundle exec rackup
+bundle exec rerun --background --no-growl bundle exec rackup
